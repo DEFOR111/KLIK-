@@ -18,6 +18,7 @@ best view\
   # PCB
   <img width="1148" height="615" alt="Снимок экрана 2026-06-10 163932" src="https://github.com/user-attachments/assets/cd47f10b-d4fb-44a9-ba31-3e1856c42331" />
 <img width="1027" height="635" alt="Снимок экрана 2026-06-10 163853" src="https://github.com/user-attachments/assets/27f3f358-6e45-4b84-8291-a89fe9429ad7" />
+
 # building 
 to build this device you have to get all materials and then
 1. solder full pcb
