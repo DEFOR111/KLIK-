@@ -1,0 +1,27 @@
+SHEMATIC,NAME,PURPOSE,SOURSE,PRICE,LINK
+"R1,R2",RESISTOR,PCB,ALIEXPRESS,$1.22,https://aliexpress.ru/item/1005011982912733.html?sku_id=12000057190323324&spm=a2g2w.productlist.search_results.0.54914807dHkYtA
+R3,RESISTOR,PCB,ALIEXPRESS,$1.22,https://aliexpress.ru/item/1005011982912733.html?sku_id=12000057190323323&spm=a2g2w.productlist.search_results.0.54914807dHkYtA
+R4,RESISTOR,PCB,ALIEXPRESS,$1.22,https://aliexpress.ru/item/1005011982912733.html?sku_id=12000057190323307&spm=a2g2w.productlist.search_results.0.54914807dHkYtA
+R5,RESISTOR,PCB,ALIEXPRESS,$1.22,https://aliexpress.ru/item/1005011982912733.html?sku_id=12000057190323331&spm=a2g2w.productlist.search_results.0.54914807dHkYtA
+R6,RESISTOR,PCB,ALIEXPRESS,$1.22,https://aliexpress.ru/item/1005011982912733.html?sku_id=12000057190323295&spm=a2g2w.productlist.search_results.0.54914807dHkYtA
+"R7,R8",RESISTOR,PCB,ALIEXPRESS,$1.22,https://aliexpress.ru/item/1005011982912733.html?sku_id=12000057190323355&spm=a2g2w.productlist.search_results.0.54914807dHkYtA
+"C1,C2,C3,C4",CAPCITOR,PCB,ALIEXPRESS,$1.5,https://aliexpress.ru/item/1005009307420068.html?sku_id=12000048689741619
+"C5,C6,C7,C8",CAPCITOR,PCB,ALIEXPRESS,$1.5,https://aliexpress.ru/item/1005009307420068.html?sku_id=12000048689741619
+J1,USB_C,PCB,ALIEXPRESS,$1.39,https://aliexpress.ru/item/1005007694777041.html?sku_id=12000041875830364
+U1,MCP73831,PCB,ALIEXPRESS,$0.77,https://aliexpress.ru/item/32800332566.html?sku_id=64192580147
+U2,XC6206P332MR,PCB,ALIEXPRESS,$1.07,https://aliexpress.ru/item/32426685794.html?sku_id=56198345681
+U3,W25Q128JVSIQ,PCB,ALIEXPRESS,$1.08,https://aliexpress.ru/item/1005007482599425.html?spm=a2g2w.cart.cart_split.11.1cfa4aa6yJte5Q&sku_id=12000040932519740
+U4,Holyiot 18010 Nordic NRF52840,PCB,ALIEXPRESS,$7.51,https://aliexpress.ru/item/32951888809.html?spm=a2g2w.cart.cart_split.33.1cfa4aa6yJte5Q&sku_id=66335833131
+MK1,ICS-43434,PCB,ALIEXPRESS,$3.2,https://aliexpress.ru/item/1005005656626703.html?sku_id=12000033910963847
+Q1,AO3400,PCB,ALIEXPRESS,$1.63,https://aliexpress.ru/item/1005010124516105.html?sku_id=12000051226992647
+D1,SMA SS14,PCB,ALIEXPRESS,$1.42,https://aliexpress.ru/item/1005012055431729.html?sku_id=12000057409264803
+D2,SK6812 MINI-E RGB,PCB,ALIEXPRESS,$3.5,https://aliexpress.ru/item/1005003056797785.html?sku_id=12000023624298356
+SW1,Kailh Choc Low Profile Switch 1350,PCB,ALIEXPRESS,$7.06,https://aliexpress.ru/item/1005006217606250.html?sku_id=12000036325072485
+NO,0827 MOTOR,FOR VIBRATION FEEDBACK,ALIEXPRESS,$2.34,https://aliexpress.ru/item/1005006234307356.html?sku_id=12000036399594976
+NO,LIPO 250mAh BATTERY,POWER,ALIEXPRESS,$7.92,https://aliexpress.ru/item/1005008702766764.html?sku_id=12000046312476228&spm=a2g2w.productlist.search_results.1.5e445e57ILaV1C
+NO,ACRYL SHEET 1MM ,THE RGB WINDOW ,ALIEXPRESS,$4.36,https://aliexpress.ru/item/1005012007369276.html?spm=a2g2w.cart.cart_split.23.5b2e4aa6xkALRx&sku_id=12000057277900079
+NO,Gloss Transparent Light Black Smoke PVC Film Tint, THE RGB WINDOW COVER ,ALIEXPRESS,$5.55,https://aliexpress.ru/item/1005006752330496.html?sku_id=12000038188853118
+NO,3D Printer Filament PETG 1.75mm 1kg/2.2lbs,CASE PRINTING,ALIEXPRESS,$19.87,https://aliexpress.ru/item/2042369676.html?spm=a2g2w.cart.cart_split.9.5b2e4aa6xkALRx&sku_id=12000015581361162
+NO,INSERTS M1.4 ,FOR SCREWS,ALIEXPRESS,$1.1,https://aliexpress.ru/item/1005006273163364.html?spm=a2g2w.cart.cart_split.13.5b2e4aa6xkALRx&sku_id=12000036559261036
+NO,SCREWS M1.4,TO HOLD EVETHING TOGETHER ,ALIEXPRESS,$1.03,https://aliexpress.ru/item/1005007870922575.html?spm=a2g2w.cart.cart_split.15.5b2e4aa6xkALRx&sku_id=12000042628835105
+TOTAL PRICE ,taxes and delivery ,$91.26,,,
